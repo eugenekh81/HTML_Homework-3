@@ -1,0 +1,31 @@
+.headline {
+    display: flex;
+    background-image: url(../images/headline_img.jpg);
+    background: ;
+    height: 600px;
+    text-align: center;
+    align-items: center;
+    margin-bottom: 94px;
+}
+
+h1 {
+    margin: 0 0 30px;
+    color: #FFF;
+    font-size: 44px;
+    font-weight: 900;
+    line-height: 60px;
+    letter-spacing: 2.64px;
+    text-transform: uppercase;
+}
+
+button {
+    width: 216px;
+    height: 50px;
+    border-radius: 4px;
+    background-color: #2196F3;
+    color: #FFF;
+    text-align: center;
+    font-size: 16px;
+    font-weight: 700;
+    letter-spacing: 0.96px;
+}
