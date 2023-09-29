@@ -1,0 +1,170 @@
+@import url('./css/reset.css');
+@import url('./css/logo.css');
+@import url('./css/header.css');
+@import url('./css/headline.css');
+@import url('./css/specials.css');
+@import url('./css/employments.css');
+@import url('./css/our-team.css');
+@import url('./css/our-clients.css');
+@import url('./css/footer.css');
+@import url('./css/portfolio.css');
+
+.test {
+    width: 270px;
+    height: 120px;
+    border-radius: 4px;
+    background: #F5F4FA;
+    display: flex;
+    align-items: center;
+}
+
+body {
+    font-family: 'Roboto', 'Raleway', sans-serif;
+    color: #757575;
+}
+
+a {
+    transition: 0.3s all;
+    text-decoration: none;
+}
+
+.nav-item:hover {
+    color: #2196F3;
+}
+
+a:hover {
+    color: #2196F3;
+}
+
+.container {
+    width: 1170px;
+    margin: 0 auto;
+}
+
+.header {
+    margin: 0 auto;
+    border-bottom: 1px solid #757575;
+}
+
+.header-left {
+    display: flex;
+    gap:93px;
+}
+
+.nav {
+    height: 80px;
+}
+
+.menu {
+    display: flex;
+    justify-content: space-between;
+}
+
+.nav-list {
+    display: flex;
+    gap: 50px;
+    font-size: 14px;
+    font-weight: 500;
+    letter-spacing: 0.28px;
+    height: 100%;
+}
+
+.nav-item {
+    color: #212121;
+    cursor: pointer;
+    display: flex;
+    align-items: center;
+}
+
+
+
+.footer {
+    background-color: #2F303A;
+    display: flex;
+    padding: 60px 0 60px;
+}
+
+.address {
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 24px;
+    letter-spacing: 0.42px;
+}
+
+.footer-logo {
+    margin-bottom: 20px;
+}
+
+.footer-text {
+    display: flex;
+    flex-direction: column;
+    gap: 9px;   
+}
+
+
+
+
+.envelope::before {
+    display: flex;
+    content: '';
+   
+    padding-right: 10px;
+    width: 16px;
+    height: 12px;
+    background-image: url(images/envelope.svg);
+    background-repeat: no-repeat;
+    background-size: contain;
+}
+
+:before {
+   
+}
+
+.smartphone::before {
+    display: flex;
+    content: '';
+}
+
+/* :hover { 
+    background-image: url(images/smartphone.svg) ;
+    width: 10px;
+    height: 16px;
+}
+/*  */
+
+
+ 
+
+
+
+
+
+
+
+
+/*  
+.icon {
+    display: block;
+    height: 25px;
+    width: 25px;
+    border-radius: 50%;
+    background-color: #212121;
+    background-position: center;
+}
+
+.icon:hover {
+    background-color: #2196F3;
+}
+
+.icon--facebook {
+    background-image: url('facebook.png');
+}
+
+.icon--instagram {
+    background-image: url('instagram.png');
+}
+
+/* <a href='facebook' class='icon icon--facebook'></div>  */
+

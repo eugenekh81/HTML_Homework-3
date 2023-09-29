@@ -1,0 +1,26 @@
+.header__contacts {
+    display: flex;
+    gap: 50px;
+    height: 80px;
+}
+
+.header__e-mail {
+    position: relative;
+    display: flex;
+    align-items: center;
+    color: #757575;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+}
+
+.header__phone {
+    display: flex;
+    align-items: center;
+    color: #757575;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: normal;
+    letter-spacing: 0.28px;
+}

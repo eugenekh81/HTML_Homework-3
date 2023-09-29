@@ -1,0 +1,47 @@
+.footer-logo {
+    color: #FFF;
+}
+
+.footer-info {
+    display: flex;
+    gap: 94px;
+}
+
+.footer-title {
+    color: #FFF;
+    font-family: Roboto;
+    font-size: 14px;
+    font-weight: 700;
+    line-height: normal;
+    letter-spacing: 0.42px;
+    text-transform: uppercase;
+}
+
+.social-icons {
+  display: flex;
+  gap: 10px;
+  list-style-type: none;
+}
+
+.social-icon {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    height: 44px;
+    width: 44px;
+    border-radius: 50%;
+    transition: 0.3s all ease-in-out; 
+    background-color: #7f7474;
+}
+
+.social-icon:hover {
+    background-color: #2196F3;
+}
+
+
+.social-icon svg {
+    height: 20px;
+    width: 20px;
+}
+
+
