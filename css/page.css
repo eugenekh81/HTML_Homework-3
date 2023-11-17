@@ -1,11 +1,12 @@
 .page__section {
-padding: 94px 0 94px 0;
+  padding: 94px 0 94px 0;
 }
 
 .page__section--grey-color {
+  padding: 94px 0 94px 0;
+  
   background-color: var(--filter-color);
 
-  padding: 94px 0 94px 0;
 }
 
 .page__section--pd-bottom-0 {
