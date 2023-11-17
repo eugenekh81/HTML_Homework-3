@@ -16,3 +16,12 @@
 
 @import "./portfolio/filter.css";
 @import "./portfolio/projects.css";
+
+
+.section__title {
+  margin: 0 0 50px 0;
+
+  color: var(--secondary-color);
+  font-size: 36px;
+  letter-spacing: 1.08px;
+}
