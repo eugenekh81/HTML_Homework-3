@@ -18,6 +18,21 @@
   text-decoration: none;
 }
 
-.contact__link:hover{
+.contact__link:focus,
+.contact__link:hover {
+  color: var(--main-color);
+}
+
+.contact__link--footer {
+  color: rgba(255, 255, 255, 0.6);
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.42px;
+
+  text-decoration: none;
+}
+
+.contact__link--footer:focus,
+.contact__link--footer:hover {
   color: var(--main-color);
 }

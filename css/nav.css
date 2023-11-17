@@ -24,6 +24,7 @@
   text-decoration: none;
 }
 
+.nav__link:focus,
 .nav__link:hover {
   color: var(--main-color);
 }
