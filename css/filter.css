@@ -1,6 +1,6 @@
 .filter__list {
   margin: 0 0 50px 0;
-  
+
   display: flex;
   justify-content: center;
   gap: 8px;
@@ -27,4 +27,5 @@ background-color: var(--filter-color);
 
 .filter__button:hover {
   background-color: var(--main-color);
+  color: #fff;
 }
