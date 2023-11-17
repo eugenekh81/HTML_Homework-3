@@ -1,0 +1,33 @@
+.nav {
+  display: flex;
+  gap: 93px;
+}
+
+.nav__list {
+  display: flex;
+  align-items: center;
+  gap: 50px;
+
+  list-style: none;
+}
+
+.nav__link {
+  display: flex;
+  align-items: center;
+
+  height: 80px;
+
+  color: var(--secondary-color);
+
+  text-decoration: none;
+
+  font-size: 14px;
+  font-weight: 500;
+
+  transition: 0.3s;
+}
+
+.nav__link:hover,
+.nav__link:focus {
+  color: var(--main-color);
+}

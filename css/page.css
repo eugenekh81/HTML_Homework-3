@@ -1,0 +1,11 @@
+.page__section {
+  padding: 94px 0 94px;
+}
+
+.page__section--pd-top-0 {
+  padding: 0 0 94px;
+}
+
+.page__section--color-gray {
+  background-color: #f5f4fa;
+}
