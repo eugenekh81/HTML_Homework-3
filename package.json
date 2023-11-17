@@ -1,0 +1,24 @@
+{
+  "name": "HTML_Homework-3",
+  "version": "1.0.0",
+  "description": "- Створи репозиторій markup-hw-03.\r - Склонуй створений репозиторій і скопіюй в нього файли попередньої роботи.\r - Додай стилі для геометрії (ширини, відступи, поля і рамки) і позиціонування контенту за допомогою Flexbox для сторінок макета **[домашнього завдання #3](<https://www.figma.com/file/3lQQ9l3yQYngZaAsfPkRSL/Web-Studio-(Version-2.1)-(Copy)?node-id=1%3A95>)**.\r - Налаштуй GitHub Pages і додай посилання на живу сторінку в шапку GitHub-репозиторія.",
+  "main": "index.js",
+  "scripts": {
+    "start": "live-server",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RogueMoore/HTML_Homework-3.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RogueMoore/HTML_Homework-3/issues"
+  },
+  "homepage": "https://github.com/RogueMoore/HTML_Homework-3#readme",
+  "dependencies": {
+    "modern-normalize": "^2.0.0"
+  }
+}
