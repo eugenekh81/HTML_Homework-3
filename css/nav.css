@@ -5,6 +5,7 @@
 
 .nav__item {
   display: flex;
+
   list-style: none;
 }
 
@@ -16,19 +17,21 @@
 .nav__link {
   display: flex;
   align-items: center;
+
   font-size: 14px;
   font-weight: 500;
+
   letter-spacing: 0.28px;
-
-  color: var(--secondary-color);
-
   text-decoration: none;
 
   height: 80px;
 
+  color: var(--secondary-color);
+
   transition: 0.3s;
 }
 
+.nav__link:focus,
 .nav__link:hover {
   color: var(--main-color);
 }

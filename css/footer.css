@@ -5,17 +5,15 @@
 }
 
 .footer__content {
- display: flex;
- flex-direction: column;
- gap: 12px;
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
 }
 
 .address {
   color: #fff;
 
   font-size: 14px;
-
   line-height: 16px;
-
   letter-spacing: 0.42px;
 }
