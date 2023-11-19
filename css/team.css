@@ -1,4 +1,4 @@
-.section__team--grey {
+.team--grey {
   background-color: #f5f4fa;
 }
 
@@ -9,14 +9,14 @@
   list-style: none;
 }
 
-.team__image {
+.team__item-image {
   vertical-align: top;
 
   width: 270px;
   height: 260px;
 }
 
-.team__name {
+.team__content-name {
   margin: 0 0 10px 0;
 
   text-align: center;
@@ -27,14 +27,14 @@
   color: var(--secondary-color);
 }
 
-.team__role {
+.team__content-role {
   text-align: center;
   font-size: 16px;
   letter-spacing: 0.48px;
 
   color: var(--accent-color);
 }
-.team__border {
+.team__item-content {
   padding: 30px 0 30px 0;
 
   border-radius: 0px 0px 4px 4px;

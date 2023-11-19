@@ -1,4 +1,4 @@
-.features__section--pd-btm-0 {
+.features--pd-btm-0 {
   padding-bottom: 0;
 }
 
@@ -13,7 +13,7 @@
   width: 270px;
 }
 
-.features__title {
+.features__item-title {
   margin: 0 0 10px 0;
 
   font-size: 14px;
@@ -24,9 +24,9 @@
   color: var(--secondary-color);
 }
 
-.features__text {
+.features__item-text {
   font-size: 14px;
-  
+
   line-height: 24px;
   letter-spacing: 0.42px;
 

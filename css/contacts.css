@@ -18,7 +18,7 @@
   text-decoration: none;
 }
 
-.contacts--footer {
+.footer__contacts {
   display: flex;
   flex-direction: column;
   gap: 12px;
@@ -26,7 +26,7 @@
   max-width: max-content;
 }
 
-.contacts__link--footer {
+.contacts__link-footer {
   display: flex;
 
   color: rgba(255, 255, 255, 0.6);
@@ -39,9 +39,9 @@
 }
 
 .contacts__link:focus,
-.contacts__link--footer:focus,
+.contacts__link-footer:focus,
 .contacts__link:hover,
-.contacts__link--footer:hover {
+.contacts__link-footer:hover {
   color: var(--main-color);
 
   transition: 0.3s;

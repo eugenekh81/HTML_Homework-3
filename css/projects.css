@@ -13,13 +13,13 @@
   height: 294px;
 }
 
-.projects__border {
+.projects__item-content {
   padding: 20px 24px 20px 24px;
 
   border: 1px solid #eee;
 }
 
-.projects__name {
+.projects__content-name {
   font-size: 18px;
   font-weight: 700;
 
@@ -29,7 +29,7 @@
   color: var(--secondary-color);
 }
 
-.projects__text {
+.projects__content-text {
   font-size: 16px;
 
   line-height: 30px;
