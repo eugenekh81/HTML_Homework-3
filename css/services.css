@@ -1,0 +1,11 @@
+.services__list {
+  display: flex;
+  gap: 30px;
+
+  list-style: none;
+}
+
+.services__image {
+  width: 370px;
+  height: 294px;
+}

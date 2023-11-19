@@ -1,0 +1,10 @@
+.title {
+  padding: 0 0 50px 0;
+  
+  color: var(--secondary-color);
+
+  text-align: center;
+  font-size: 36px;
+  font-weight: 700;
+  letter-spacing: 1.08px;
+}
