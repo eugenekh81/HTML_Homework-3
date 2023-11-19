@@ -16,7 +16,28 @@
   text-decoration: none;
 }
 
-.contacts__link:hover {
+.contacts--footer {
+  display: flex;
+  flex-direction: column;
+  gap: 12px;
+
+  max-width: max-content;
+}
+
+.contacts__link--footer {
+  display: flex;
+
+  color: rgba(255, 255, 255, 0.6);
+
+  font-size: 14px;
+  line-height: 16px;
+  letter-spacing: 0.42px;
+
+  text-decoration: none;
+}
+
+.contacts__link:hover,
+.contacts__link--footer:hover {
   color: var(--main-color);
 
   transition: 0.3s;

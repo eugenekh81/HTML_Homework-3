@@ -12,10 +12,21 @@
   height: 80px;
 }
 
+.logo--footer {
+  display: inline-flex;
+  height: 100%;
+
+  margin: 0 0 28px 0;
+}
+
 .logo__web {
   color: var(--main-color);
 }
 
-.studio--black {
+.logo__studio--black {
   color: #000;
+}
+
+.logo__studio--white {
+  color: #fff;
 }
