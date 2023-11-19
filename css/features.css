@@ -1,3 +1,7 @@
+.features__section--pd-btm-0 {
+  padding-bottom: 0;
+}
+
 .features__list {
   display: flex;
   gap: 30px;
