@@ -14,13 +14,11 @@
 }
 
 .projects__item-content {
-  padding: 20px 24px 20px 24px;
+  padding: 20px 24px;
 
   border-bottom: 1px solid #eee;
   border-left: 1px solid #eee;
   border-right: 1px solid #eee;
-
-
 }
 
 .projects__content-name {
