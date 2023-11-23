@@ -16,9 +16,8 @@
 .projects__item-content {
   padding: 20px 24px;
 
-  border-bottom: 1px solid #eee;
-  border-left: 1px solid #eee;
-  border-right: 1px solid #eee;
+  border: 1px solid #eee;
+  border-top: none;
 }
 
 .projects__content-name {

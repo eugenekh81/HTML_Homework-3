@@ -16,6 +16,8 @@
   height: 80px;
 
   text-decoration: none;
+
+  transition: 0.3s;
 }
 
 .contacts__link-footer {
@@ -36,5 +38,4 @@
 .contacts__link-footer:hover {
   color: var(--main-color);
 
-  transition: 0.3s;
 }
